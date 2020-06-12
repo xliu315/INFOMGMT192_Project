@@ -1,0 +1,20 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+	display: block;}
+.wrapper {
+	width: 1000px;
+	margin: 20px auto 20px auto;
+	border: 2px solid #000000;
+	background-color: #fdcccc;}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;}
+nav li {
+	display: inline;
+	margin-right: 40px;
+	}
+nav li a {
+	color: #ffffff;}
+article{
+	text-align: center;
+}
+	
